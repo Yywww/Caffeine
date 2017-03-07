@@ -3,4 +3,4 @@ This is an application that will make your office skype always appear 'Availiabl
 
 # USe
 
-Open the Executable, it will run in the background. If you want to turn it off, go to task manager and kill a process called GSRT.
+Open the Executable, it will run in the background. If you want to turn it off, go to task manager and kill the process named GSRT.
